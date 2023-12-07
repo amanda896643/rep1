@@ -1,6 +1,7 @@
 interface User {
   name: string;
   id: number;
+  email: string;
 }
  
 class UserAccount {
